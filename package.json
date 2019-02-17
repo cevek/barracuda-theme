@@ -1,0 +1,22 @@
+{
+    "name": "barracuda-theme",
+    "displayName": "Barracuda theme",
+    "publisher": "cevek",
+    "description": "",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Barracuda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Barracuda-color-theme.json"
+            }
+        ]
+    }
+}
